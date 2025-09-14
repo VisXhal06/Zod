@@ -1,5 +1,5 @@
 {
-  "name": "week-7",
+  "name": "auth-system",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "bcrypt": "^6.0.0",
     "express": "^4.21.0",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.6.2"
+    "mongoose": "^8.6.2",
+    "zod": "^4.1.8"
   }
 }
