@@ -1,7 +1,7 @@
 <div id="top" class="">
 
 <div align="center" class="text-center">
-<h1>ZOD</h1>
+<h1>Project ZOD</h1>
 <p><em>Empowering Secure, Seamless User Experiences Everywhere</em></p>
 
 <img alt="last-commit" src="https://img.shields.io/github/last-commit/VisXhal06/Zod?style=flat&amp;logo=git&amp;logoColor=white&amp;color=0080ff" class="inline-block mx-1" style="margin: 0px 2px;">
@@ -83,3 +83,4 @@
 <hr>
 <div align="left" class=""><a href="#top">⬆ Return</a></div>
 <hr></div>
+
